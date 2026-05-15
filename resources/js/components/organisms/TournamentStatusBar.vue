@@ -74,7 +74,7 @@ defineEmits([
                         :icon-left="RotateCcw"
                         @click="$emit('reset')"
                     >
-                        Reset
+                        Reset All
                     </UiButton>
                 </template>
 
@@ -104,7 +104,7 @@ defineEmits([
                         :icon-left="RotateCcw"
                         @click="$emit('reset')"
                     >
-                        Reset
+                        Reset All
                     </UiButton>
                 </template>
             </div>
