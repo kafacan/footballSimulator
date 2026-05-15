@@ -60,7 +60,7 @@ The project supports:
 
 - Laravel
 - PHP
-- SQLite (development)
+- MySQL (development)
 - Feature-tested service architecture
 
 ## Frontend
@@ -439,10 +439,8 @@ Run formatting:
 # Future Improvements
 
 Potential future improvements:
-- richer prediction models
-- caching prediction simulations
-- advanced Elo/form systems
-- transfer systems
-- player-level simulation
-- historical statistics
-- multiplayer/session sharing
+- authentication and user-based session ownership
+- richer prediction and simulation models
+- multiplayer/shared tournament sessions
+- cached prediction calculations
+- additional tournament formats
